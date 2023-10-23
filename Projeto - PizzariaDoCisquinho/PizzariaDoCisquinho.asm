@@ -4,8 +4,8 @@
 #Arquivos que devem ser alterados conforme a maquina
 
 
-arquivoPedidos: .asciiz "C:/Users/marly/Downloads/PizzariaDoCisquinho/pedidos.txt"
-arquivoLogin: .asciiz  "C:/Users/marly/Downloads/PizzariaDoCisquinho/login.txt"
+arquivoPedidos: .asciiz "pedidos.txt"
+arquivoLogin: .asciiz  "login.txt"
 
 #############################################	
 #pizzaria
