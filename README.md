@@ -15,7 +15,7 @@ A **Pizzaria** é um programa que simula o sistema de pedidos de uma pizzaria, p
 ## 🛠️ Tecnologias Utilizadas
 
 - ⚙ **Assembly** – Linguagem de programação utilizada para o desenvolvimento do sistema.
-- 📂 **Arquivos de Texto (.txt)** – Armazenamento de dados como credenciais de login e detalhes do menu.
+- 📝 **Arquivos de Texto (.txt)** – Armazenamento de dados como credenciais de login e detalhes do menu.
 
 ---
 
